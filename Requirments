@@ -1,0 +1,9 @@
+pip install flask
+pip install flask_cors
+pip install yt_dlp
+pip install threading
+pip install io
+pip install subprocess
+pip install logging
+pip install time
+pip install uuid
